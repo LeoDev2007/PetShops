@@ -12,9 +12,9 @@ const Footer = () =>{
                     <p><span>@Petmania</span> Todos os direitos reservados @2024</p>
                 </div>
                 <div className={styles.footerIcons}>
-                    <a href='#'><FaWhatsapp /></a>
-                    <a href='#'><FaInstagram /></a>
-                    <a href='#'><FaFacebook /></a>
+                    <button><FaWhatsapp /></button>
+                    <button><FaInstagram /></button>
+                    <button><FaFacebook /></button>
                 </div>
             </div>
         </div>
