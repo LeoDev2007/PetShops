@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/PetShops/static/css/main.b285722e.css",
-    "main.js": "/PetShops/static/js/main.26e356c3.js",
+    "main.css": "/PetShops/static/css/main.4300e01a.css",
+    "main.js": "/PetShops/static/js/main.cf91510c.js",
     "static/js/453.a5eeb5f2.chunk.js": "/PetShops/static/js/453.a5eeb5f2.chunk.js",
     "static/media/Banner.png": "/PetShops/static/media/Banner.36246d61cb449d55199b.png",
     "static/media/CatDog.png": "/PetShops/static/media/CatDog.87e1cde78e956316d7e1.png",
@@ -14,12 +14,12 @@
     "static/media/Racao.jpg": "/PetShops/static/media/Racao.17889ce250622474580d.jpg",
     "static/media/Brinquedo.jpg": "/PetShops/static/media/Brinquedo.08b8fe12684caa84e0e8.jpg",
     "index.html": "/PetShops/index.html",
-    "main.b285722e.css.map": "/PetShops/static/css/main.b285722e.css.map",
-    "main.26e356c3.js.map": "/PetShops/static/js/main.26e356c3.js.map",
+    "main.4300e01a.css.map": "/PetShops/static/css/main.4300e01a.css.map",
+    "main.cf91510c.js.map": "/PetShops/static/js/main.cf91510c.js.map",
     "453.a5eeb5f2.chunk.js.map": "/PetShops/static/js/453.a5eeb5f2.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.b285722e.css",
-    "static/js/main.26e356c3.js"
+    "static/css/main.4300e01a.css",
+    "static/js/main.cf91510c.js"
   ]
 }
