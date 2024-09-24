@@ -32,3 +32,22 @@
       max-width: 1000px;
     }
   }
+
+  @media (max-width: 430px){
+
+    .pets{
+      height: 180vh;
+      padding-top: 130px;
+    }
+
+    .petContainer{
+      grid-template-columns: repeat(1, 1fr);
+      
+    }
+  }
+
+  @media (max-width: 375px) {
+    .pets{
+        height: 200vh;
+    }
+}

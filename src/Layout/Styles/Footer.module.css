@@ -44,3 +44,21 @@
     margin-top: 10px;
 }
 
+
+@media (max-width: 430px) {
+
+    .footer{ 
+        height: 35vh;
+    }
+    .footerIcons{
+        flex-direction: row;
+    }
+
+    .footerIcons svg{
+        margin-right: 19px;
+    }
+    .footerContainer{
+        flex-direction: column;
+        justify-content: center;
+    }
+}

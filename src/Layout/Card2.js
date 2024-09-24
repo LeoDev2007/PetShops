@@ -9,7 +9,7 @@ const Card2 = (props) => {
         <p>{props.price}</p>
         <p>{props.description}</p>
         <div className={styles.cardBtn}>
-          <button>Adicionar ao Carrinho</button>
+          <button>Mais detalhes</button>
         </div>
       </div>
     </div>

@@ -1,6 +1,7 @@
 .home{
-    height: 110vh;
+    height: 120vh;
     width: 100%;
+    padding-top: 100px;
 }
 
 .about{
@@ -66,7 +67,7 @@
 @media (max-width: 1281px){
 
     .home{
-        height: 120vh;
+        height: 130vh;
     }
     .about{
         padding: 10px;
@@ -91,16 +92,16 @@
         text-align: center;
         max-width: 500px;
         margin-right: 0;
-        padding-top: 20px;
+        padding-top: 60px;
     }
 
     .aboutText h2{
-        font-size: 2rem;
+        font-size: 3rem;
     }
 
     .aboutImage{
-        width: 340px;
-        height: 340px;
+        width: 380px;
+        height: 380px;
     }
 }
 
@@ -112,5 +113,39 @@
 
     .about button{
         display: none;
+    }
+}
+
+@media (max-width: 430px) {
+    .aboutText h2{
+        font-size: 2rem;
+    }
+
+    .aboutText{
+        max-width: 380px !important;
+        padding-top: 40px;
+    }
+
+    .aboutImage{
+        width: 280px;
+        height: 280px;
+    }
+}
+
+@media (max-width: 390px) {
+    .aboutText{
+        max-width: 350px !important;
+    }
+
+    .aboutImage{
+        width: 250px;
+        height: 250px;
+    }
+}
+
+@media (max-width: 375px) {
+    .aboutImage{
+        width: 230px;
+        height: 230px;
     }
 }
